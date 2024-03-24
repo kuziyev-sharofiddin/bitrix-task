@@ -1,0 +1,1 @@
+<p>© 2020 - Mint,All Right Reserved</p>

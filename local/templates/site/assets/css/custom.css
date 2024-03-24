@@ -1,0 +1,7 @@
+.hero, .footer, .blog {
+    height: min-content;
+}
+
+#portfolio, #partners, #about, #contact {
+    height: min-content;
+}

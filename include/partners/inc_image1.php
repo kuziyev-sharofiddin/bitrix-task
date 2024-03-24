@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH?>/assets/images/partner02.d8f2a498.svg" alt="partner">
